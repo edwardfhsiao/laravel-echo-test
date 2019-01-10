@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server_dev": "node_modules/.bin/webpack-dev-server --config ./development.config.js"
+    "server": "node_modules/.bin/webpack-dev-server --config ./development.config.js"
   },
   "author": "",
   "license": "ISC",
