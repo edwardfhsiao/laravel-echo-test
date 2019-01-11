@@ -43,7 +43,6 @@ var config = (module.exports = {
       'window.react': 'React',
       'window.React': 'React',
       $: 'jquery',
-      jQuery: 'jquery',
       'window.jQuery': 'jquery',
     }),
     new WebpackAssetsManifest({
